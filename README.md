@@ -16,5 +16,5 @@ Timeout-based locking to avoid deadlock.
 ## Learning
 Deadlock can be avoided by proper resource handling strategies.
 
-## ▶️ Run
+## Run
 python deadlock.py
