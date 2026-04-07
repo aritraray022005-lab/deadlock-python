@@ -29,7 +29,7 @@ def deadlock_example():
     threading.Thread(target=t2).start()
 
 
-#  Fixed version with Resource Ordering 
+#  Resource Ordered
 def safe_example():
 
     def t(name):
